@@ -37,7 +37,7 @@
 # 📖 Panadería San Gabriel Advertisement <a name="about-project"></a>
 
 <p style="text-align:center">
-<img src="./images/example.png" style="height:400px">
+  <img src="./images/example.png" style="height:400px">
 </p>
 
 **[Panadería San Gabriel Advertisement]** is a simple page which function is display a bakery advertisement after the user scan a QR code. This advertisement contains a facebook link to redirect the user to the official bakery facebook page.
