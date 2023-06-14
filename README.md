@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link]([https://budgetsapp.onrender.com/](https://sambeck87.github.io/QRAdvertisement/))
+[Live Demo Link](https://sambeck87.github.io/QRAdvertisement/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
